@@ -1,4 +1,6 @@
 # Credit-Risk-Classification
+![RMF-7-Steps-1024x576](https://github.com/cbake105/Credit-Risk-Classification/assets/133677209/05ac390c-9979-4e2c-87e0-65c4f183c4b6)
+
 
 ## Instructions
 The instructions for this Challenge are divided into the following subsections:
